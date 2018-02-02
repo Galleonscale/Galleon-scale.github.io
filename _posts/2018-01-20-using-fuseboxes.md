@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learned through a good level of communication with my partner , following the instructions but tweaking them if we got the code wrong.
+    <td>I learned through a good level of communication with my partner , following the instructions but I kept tweaking them if we got the code wrong.
 A strategy that was effective was working efficiently with my partner whilst following the instructions,this proved a effective combo as we worked quite well and efficiently to successfully complete two of the instructions.</td>
   </tr>
   <tr>

@@ -18,6 +18,14 @@ html {
 }
 body {
   background-image: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/background-jpg-9.jpg");
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+	
 }
 
 .container {

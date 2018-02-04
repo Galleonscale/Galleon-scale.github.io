@@ -131,11 +131,13 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  //color: $black;
+	color: $white;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  //color: $black;
+	color: $white;
   background: $lightGray;
 }
 

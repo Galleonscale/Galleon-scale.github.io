@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title </td>
-    <td>using fuse boxes 999</td>
+    <td>using fuse boxes </td>
     <td>Date </td>
     <td>20/01/18</td>
   </tr>

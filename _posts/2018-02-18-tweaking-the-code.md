@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Tweaking the code</td>
     <td>Date</td>
-    <td>12/02/18</td>
+    <td>18/02/18</td>
   </tr>
 </table>
 

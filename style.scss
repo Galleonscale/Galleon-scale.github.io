@@ -20,7 +20,8 @@ body {
   background-image: url("https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2012/07/30/21/libraries1.jpg");
  color: white;
 	 text-align: center;
-border: solid black 1px;	
+//border: solid black 1px;	
+	border: solid 1px black;
 	
 }
 
@@ -36,6 +37,7 @@ border: solid black 1px;
   padding: 20px;
  //border: 1px solid black;
 	  border-bottom: 1.5px rgb(0, 255, 255);
+	border: solid 1px black;
   color: white;
 }
 div.transbox p {
@@ -46,6 +48,7 @@ div.transbox p {
    max-width: 740px;
    padding: 0 10px;
    width: 100%;
+	border: solid 1px black;
  }
  
 h1, h2, h3, h4, h5, h6 {
@@ -55,6 +58,8 @@ h1, h2, h3, h4, h5, h6 {
 
   line-height: 1.7;
   margin: 1em 0 15px;
+	  //border: solid black 1px;
+	  border: solid 1px black;
   padding: 0;
 
   @include mobile {
@@ -140,7 +145,8 @@ img {
 table {
     width: 100%;
 	background-color: #ffffff;
-	border: solid black 1px;
+	//border: solid black 1px;
+	border: solid 1px black;
 }
 
 th {
@@ -149,33 +155,39 @@ th {
 	background-color: #ffffff;
    height:50px;
    vertical-align: middle;
-	border: solid black 1px;
+	//border: solid black 1px;
+	border: solid 1px black;
 }
 
 table, th, td {
    border: 2px solid white;
    //background-color:rgba(255, 255, 0, 0.6);
 	background-color: #ffffff;
-	border: solid black 1px;
+	//border: solid black 1px;
+	border: solid 1px black;
+	
 }
 
 table {
     border-collapse: collapse;
 	border: solid black 1px;
+	//border: solid 1px black;
 }
 
 th, td {
     padding: 15px;
     text-align: left;
 	background-color: #ffffff;
-	border: solid black 1px;
+	//border: solid black 1px;
+	border: solid 1px black;
 }
 
 td {
     vertical-align: center;
     horizontal-align: center; 
 	background-color: #ffffff;
-	border: solid black 1px;
+	//border: solid black 1px;
+	border: solid 1px black;
 	}	
 
 /* unvisited link */

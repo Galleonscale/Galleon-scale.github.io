@@ -135,14 +135,14 @@ table {
 }
 
 th {
-   color: black;
+   color: $white;
    background: rgba(255, 255, 0, 0.6);
    height:50px;
    vertical-align: middle;
 }
 
 table, th, td {
-   border: 2px solid black;
+   border: 2px solid $white;
    background-color:rgba(255, 255, 0, 0.6);
 }
 
@@ -157,16 +157,17 @@ th, td {
 
 td {
     vertical-align: center;
-}
+    horizontal-align:center; 
+	}	
 
 /* unvisited link */
 a:link {
-    color:$white;
+    color:  $white;
 }
 
 /* visited link */
 k:visited {
-    color: #00ffff;
+    color: $white;
 }
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {

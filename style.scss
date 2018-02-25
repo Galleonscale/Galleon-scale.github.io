@@ -184,7 +184,7 @@ th, td {
 
 td {
     vertical-align: center;
-    horizontal-align: center; 
+   // horizontal-align: center; 
 	background-color: #ffffff;
 	//border: solid black 1px;
 	border: solid 1px black;
@@ -196,7 +196,7 @@ a:link {
 }
 
 /* visited link */
-k:visited {
+a:visited {
     color: white;
 }
 // Fixes images in popup boxes from Google Translate

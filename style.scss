@@ -32,6 +32,7 @@ body {
   border-radius: 25px;
   padding: 20px;
   border-bottom: 1.5px rgb(0, 255, 255);
+  color: $white;
 }
 div.transbox p {
      margin: 5%;
@@ -159,7 +160,7 @@ th, td {
 
 td {
     vertical-align: center;
-    horizontal-align:center; 
+    horizontal-align: center; 
 	}	
 
 /* unvisited link */

@@ -386,7 +386,10 @@ nav {
     color: white;
     font-size: 22px;
     font-style: italic;
-	  	border: 2px solid black;
+	  border: 2px solid black;
+    border-style: double;
+    border-width: thick;
+    border-color: green;
   }
 
   .comments {

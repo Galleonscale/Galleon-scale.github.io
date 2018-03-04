@@ -39,7 +39,11 @@ body {
   padding: 20px;
   //border: 1px solid white;
 	//border-bottom: 1.5px rgb(0, 255, 255);
-	border: 2px solid black;
+	//border: 2px solid black;
+	// changed
+	   border-style: double;
+           border-width: thick;
+           border-color: red;
 	//border: solid 1px white;
   color: white;
 }

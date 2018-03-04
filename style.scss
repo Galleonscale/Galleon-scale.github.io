@@ -40,10 +40,9 @@ body {
   //border: 1px solid white;
 	//border-bottom: 1.5px rgb(0, 255, 255);
 	//border: 2px solid black;
-	// changed
 	   border-style: double;
            border-width: thick;
-           border-color: red;
+           border-color: yellow;
 	//border: solid 1px white;
   color: white;
 }
@@ -178,7 +177,11 @@ th {
 }
 
 table, th, td {
-   border: 2px solid $black;
+   //changed
+	//border: 2px solid $black;
+   border-style: double;
+    border-width: thick;
+    border-color: red;
    background-color:rgb(6, 23, 56);
 	background-color: #ffffff;
 	//border: solid black 1px;

@@ -381,12 +381,16 @@ nav {
  // border-bottom: 1px solid white;
 	border: 2px solid black;	
   color: #D2691E;
+	// EL
+	table table { border: 1px solid green;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 		border: 2px solid black;
+	// EL
+	table table { border: 1px solid green;
 }
 
 .post {
@@ -401,11 +405,15 @@ nav {
     border-style: double;
     border-width: thick;
     border-color: green;
+	  // EL
+	table table { border: 1px solid green;
   }
 
   .comments {
     margin-top: 10px;
 	  	border: 2px solid black;
+	  // EL
+	table table { border: 1px solid green;
   }
 
   .read-more {
@@ -413,6 +421,8 @@ nav {
     font-size: 15px;
 	  color: #fff;
 	  	border: 2px solid black;
+	  // EL
+	table table { border: 1px solid green;
   }	
 }
 

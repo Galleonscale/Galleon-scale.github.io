@@ -158,8 +158,8 @@
  table {
      width: 100%;
  	background-color: #ffffff;
--	border: 2px solid black;
-+	border: 2px solid $black;
+//-	border: 2px solid black;
+border: 2px solid $black;
  	//border: solid black 1px;
  	//border: solid 1px black;
  }
@@ -170,8 +170,8 @@
  	background-color: #ffffff;
     height:50px;
     vertical-align: middle;
--	border: 2px solid black;
-+	border: 2px solid $black;
+//-	border: 2px solid black;
+border: 2px solid $black;
  	//border: solid black 1px;
  	//border: solid 1px black;
  }

@@ -382,7 +382,12 @@ nav {
 	border: 2px solid black;	
   color: #D2691E;
 	// EL
-	table  { border: 1px solid green;}
+	//table  { border: 1px solid green;}
+	
+	table, th, td {
+   border: 1px solid black; }
+	
+	
 }
 
 .posts > .post:last-child {
@@ -390,7 +395,10 @@ nav {
  // border-bottom: none;
 		border: 2px solid black;
 	// EL
-	table  { border: 1px solid green;}
+	//table  { border: 1px solid green;}
+	
+	table, th, td {
+   border: 1px solid black;}
 }
 
 .post {
@@ -406,7 +414,9 @@ nav {
     border-width: thick;
     border-color: green;
 	  // EL
-	table  { border: 1px solid green;}
+	//table  { border: 1px solid green;}
+	  table, th, td {
+   border: 1px solid black;}
   }
 
   .comments {

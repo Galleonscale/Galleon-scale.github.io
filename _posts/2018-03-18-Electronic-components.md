@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github
+title: Electronic components
 layout: post
 author: ethan.lai
 permalink: /Electronic-components/

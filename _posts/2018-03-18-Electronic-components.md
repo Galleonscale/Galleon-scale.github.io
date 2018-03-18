@@ -2,7 +2,7 @@
 title: Copy of Using Github
 layout: post
 author: ethan.lai
-permalink: /copy-of-using-github/
+permalink: /Electronic-components/
 source-id: 1sYoFlpEZTTslBPz536HlRZK8Y40RMd6fH5o1ubXIncw
 published: true
 ---

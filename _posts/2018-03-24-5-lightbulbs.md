@@ -8,7 +8,7 @@ published: true
 ---
 <video width="320" height="240" controls>
 
-  <source src="/images/5bulbs.mp4" type="video/mp4">
+  <source src="/images/5bulbs.mp4.mp4" type="video/mp4">
 
 Your browser does not support the video tag.
 

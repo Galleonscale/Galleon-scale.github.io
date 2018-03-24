@@ -8,7 +8,7 @@ published: true
 ---
 <video width="320" height="240" controls>
 
-  <source src="/images/[Photonsensor.mp4](https://github.com/Galleonscale/galleonscale.github.io/blob/master/_posts/Photonsensor.mp4.mp4).mp4" type="video/mp4">
+  <source src="/images/Photonsensor.mp4.mp4" type="video/mp4">
 
 Your browser does not support the video tag.
 

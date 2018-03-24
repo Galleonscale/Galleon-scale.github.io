@@ -1,15 +1,15 @@
 ---
-title: Photon sensors
+title: Moving away from lightbulbs
 layout: post
 author: ethan.lai
-permalink: /photon-sensors/
+permalink: /Moving-away-from-lightbulbs/
 source-id: 1_9WiJuyxQVInpOtb1ku08GzO77RX8mYBw_k1CtybzBQ
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Photon Sensors</td>
+    <td>Moving away from lightbulbs</td>
     <td>Date</td>
     <td>19/03/18</td>
   </tr>

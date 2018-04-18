@@ -8,7 +8,7 @@ published: true
 ---
 <video width="320" height="240" controls>
 
-<source src="/images/photonsensorblob.MOV" type="video/MOV">
+<source src="2bulbs.mp4.mp4"type="video/MOV">
 
 Your browser does not support the video tag.
 
